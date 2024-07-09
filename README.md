@@ -1,1 +1,1 @@
-# WinForms
+# WinForms Kiss Gábor
